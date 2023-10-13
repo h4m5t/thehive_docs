@@ -1,6 +1,8 @@
-# docs
-
-The documentation uses mkdocs to render the content.
+# TheHive文档备份
+TheHive4文档将在2023 年 12 月 31 日之后永久停用。备份如下：
+TheHive:https://h4m5t.top/thehive_docs/thehive/
+Cortex:https://h4m5t.top/thehive_docs/cortex/
+By h4m5t.
 
 ## Test changes
 
