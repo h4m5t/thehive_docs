@@ -1,7 +1,12 @@
 # TheHive文档备份
-TheHive4文档将在2023 年 12 月 31 日之后永久停用。备份如下：
+TheHive4文档将在2023 年 12 月 31 日之后永久停用。原文连接：https://docs.thehive-project.org/
+
+备份如下：
+
 TheHive:https://h4m5t.top/thehive_docs/thehive/
+
 Cortex:https://h4m5t.top/thehive_docs/cortex/
+
 By h4m5t.
 
 ## Test changes
